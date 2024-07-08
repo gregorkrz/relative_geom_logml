@@ -1,1 +1,1 @@
-# relative_geom_logml
+# LOGML 24 Relative representations geoemtry course
