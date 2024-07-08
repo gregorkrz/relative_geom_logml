@@ -1,1 +1,1 @@
-# LOGML 24 Relative representations geoemtry course
+# LOGML 24 Relative representations geometry course
